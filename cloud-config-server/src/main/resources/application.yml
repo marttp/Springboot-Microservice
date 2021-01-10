@@ -8,5 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/shabbirdwd53/config-server
+          uri: https://github.com/marttp/config-server-spring-boot-microservice-training-1
           clone-on-start: true
